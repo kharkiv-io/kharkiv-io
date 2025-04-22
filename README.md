@@ -10,6 +10,6 @@ Languages - Rust, C++, Assembly
 Platforms - Docker
 Operating Systems - Armbian, Arch Linux, Linux Mint, EndeavourOS, RpiOS
 
-Other 
-Nothing to say, just code.
+Other
+Right now working at the project called "aosae" ( Advanced Open-source Audio Engine )
 ```
